@@ -1,0 +1,1 @@
+e) Dispositivos de saída

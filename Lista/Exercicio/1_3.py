@@ -1,0 +1,1 @@
+print("O interpretador lê código fonte dos programas, analisa-os e interpreta as instruções em tempo real, o compilador precisa que o programa esteja armazenado em um arquivo para rodar um processo para transformar o código em alto nível para linguagem de máquina e o compilador armazena os dados em liguagem de máquina em um arquivo para ser executado posteriormente")

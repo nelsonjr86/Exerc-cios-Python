@@ -1,0 +1,1 @@
+print("Revisar as regras “gramaticais” do Pyton")

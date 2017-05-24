@@ -1,0 +1,1 @@
+print ("c) Armazenar informações por um período longo, mesmo que ocorra queda de energia.")

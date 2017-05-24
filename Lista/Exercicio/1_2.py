@@ -1,0 +1,1 @@
+print("Instruções armazenadas que podem emitir comandos trÊs bilhôes de vezes por segundo.")

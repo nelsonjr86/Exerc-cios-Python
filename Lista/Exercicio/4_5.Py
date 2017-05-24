@@ -1,0 +1,7 @@
+print ('Exercício 4.5 O que o programa a seguir imprime ?')
+print ('a)Zap ABC jane fred jane')
+print ('b)Zap ABC Zap')
+print ('c)ABC Zap jane')
+print ('d)ABC Zap ABC')
+print ('e)Zap Zap Zap')
+print ('resposta correta do exercicio 4.5 e a letra D.')

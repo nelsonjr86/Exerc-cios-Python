@@ -1,0 +1,7 @@
+print ('Exercício 4.4 Qual o propósito da palavra-chave def em Python?')
+print ('a) É uma gíria que significa "o seguinte código é muito legal"')
+print ('b) Indica o começo de uma função')
+print ('c) Indica que a sequência de código identada seguinte deve ser armazenada para posterior utilização.')
+print ('d) b e c são ambas verdadeiras')
+print ('e) n.d.a')
+print ('resposta correta do exercicio 4.4 e a letra D.')
